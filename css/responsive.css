@@ -1,0 +1,43 @@
+/* Good technique to test BREAK POINTS*/
+@media screen and (min-width: 380px) and (max-width: 720px){
+    /*TESTING BREAK POINTS*/
+    /*body{
+        background: orange;
+    }
+
+*/
+    header img{
+        width: 100%;
+        height: auto;
+    }
+
+    article{
+        width: auto;
+        float: none;
+        text-align: center;
+    }
+    aside{
+        width: auto;
+        float: none;
+        margin-bottom: 5px;
+
+    }
+    article h1{
+        width: -12%;
+        font-size: 24px;
+        white-space: nowrap;
+        text-align: center;
+    }
+
+
+}
+
+/*@media screen and (min-width: 720px) and (max-width: 1280px){
+    header{
+        width: 100%;
+        height: auto;
+        text-align: center;
+
+    }
+
+}*/
